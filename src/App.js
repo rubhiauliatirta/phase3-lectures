@@ -50,7 +50,7 @@ export default function App(props) {
     * [indomies, toggle]
    */
 
-  ///componentDidMount + componentDidUpdate 1
+  ///componentDidMount + componentDidUpdate + componentwillunmount
   useEffect(()=>{ 
     console.log("componentDidMount + componentDidUpdate")
   })
@@ -60,7 +60,7 @@ export default function App(props) {
     * karena kita gak specifying parameter kedua
    */
 
-  ///componentDidMount + componentDidUpdate 2
+  ///componentDidMount + componentDidUpdate
   useEffect(()=>{ 
     console.log("componentDidMount + componentDidUpdate")
   }, [toggle])

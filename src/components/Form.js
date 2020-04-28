@@ -12,12 +12,9 @@ export default function Form(props){
     }
   }, [])
    /**
-    * jalan setiap ada perubahan pada state indomies
-    * tapi tidak melakukan apa2 ketika render pertama kali
-    * karena callbackFnctionnya tidak melakukan apa2 selain return function
-    * note : kalo mau effect nya jalan ketika perubahan terjadi pada
-    * salah satu dari 2 state, paramater kedua bisa dibikin
-    * [indomies, toggle]
+    * hanya akan jalan ketika component ini akan dilepas
+    * dari DOM, kenapa abis setiap render gak kepanggil
+    * karena kita nggak nge watch apa2 di parameter kedua
    */
 
   function onVariantChange(event){
