@@ -9,7 +9,7 @@ export const setUser = (users) => {
 
 export const setLoading = (value) => {
   return {
-    type : SET_USERS,
+    type : SET_USERS_LOADING,
     payload : value
   }
 }
