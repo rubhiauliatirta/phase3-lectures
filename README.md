@@ -7,3 +7,4 @@ list branch :
 - 1.3.1-react-router-class
 - 1.3.2-react-redux-hooks
 - 1.3.2-react-redux-class
+- 2.2.1-react-navigation
