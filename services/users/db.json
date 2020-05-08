@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Griffith Finch",
+      "age": 19,
+      "company": "At Fringilla Limited",
+      "country": "Gambia"
+    },
+    {
+      "id": 2,
+      "name": "Yvonne Davenport",
+      "age": 23,
+      "company": "Interdum Nunc Corporation",
+      "country": "Austria"
+    },
+    {
+      "id": 3,
+      "name": "Veronica Burke",
+      "age": 21,
+      "company": "Quis Inc.",
+      "country": "Malawi"
+    },
+    {
+      "id": 4,
+      "name": "Quincy Gaines",
+      "age": 24,
+      "company": "Magna Phasellus Dolor LLP",
+      "country": "Poland"
+    },
+    {
+      "name": "Rubhi",
+      "age": 19,
+      "country": "Indonesia",
+      "id": 5
+    },
+    {
+      "name": "Rubhi",
+      "age": 19,
+      "country": "Indonesia",
+      "id": 6
+    },
+    {
+      "name": "Aulia",
+      "age": 19,
+      "country": "Indonesia",
+      "id": 7
+    },
+    {
+      "name": "Tirta",
+      "age": 20,
+      "country": "Kuwait",
+      "id": 8
+    }
+  ]
+}
