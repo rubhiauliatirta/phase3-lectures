@@ -10,3 +10,4 @@ list branch :
 - 2.2.1-react-navigation
 - 2.4.1-mongdb
 - 2.4.2-microservices-redis
+- 2.5.1-graphql-server
