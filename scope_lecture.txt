@@ -1,7 +1,7 @@
 1. review penggunaan redux
 - foldering best practice
 - combineReducer
-- using connect() dengan mapStateToProps dan mapActionsToProps
+- using connect() dengan mapStateToProps dan mapDispatchToProps
 - curry function
 
 2. Penggunaan middlware/enhancer di redux 

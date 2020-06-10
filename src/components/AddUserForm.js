@@ -27,8 +27,8 @@ import { addUser } from "../store/actions/userActions";
   );
 }
 
-const mapActionsToProps = {
+const mapDispatchToProps = {
   addUser
 }
 
-export default connect(null, mapActionsToProps)(AddUserForm) 
+export default connect(null, mapDispatchToProps)(AddUserForm) 

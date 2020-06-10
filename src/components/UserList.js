@@ -49,7 +49,7 @@ const mapStateToProps = (state) => {
  * props.users => function component
  */
 
-const mapActionsToProps = {
+const mapDispatchToProps = {
   setUser,
   addVote
 }
@@ -67,7 +67,7 @@ const mapActionsToProps = {
  */
 
 
-export default connect(mapStateToProps, mapActionsToProps)(UserList)
+export default connect(mapStateToProps, mapDispatchToProps)(UserList)
 /**
  * si function connect ini tugasnya meng-connectkan store dengan component kita
  * dengan menginjeksikan state dan action yang kita butuhkan
