@@ -7,6 +7,7 @@ list branch :
 - 1.3.1-react-router-class
 - 1.3.2-react-redux-hooks
 - 1.3.2-react-redux-class
+- 1.4.1-react-middleware
 - 2.2.1-react-navigation
 - 2.4.1-mongdb
 - 2.4.2-microservices-redis
