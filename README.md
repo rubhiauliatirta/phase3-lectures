@@ -11,6 +11,8 @@ list branch :
 - 1.5.1-react-testing-library
 - 2.2.1-react-native-intro
 - 2.2.1-react-navigation
+- 2.3.1-react-native-review
 - 2.4.1-mongdb
 - 2.4.2-microservices-redis
 - 2.5.1-graphql-server
+- 2.5.2-graphql-client
