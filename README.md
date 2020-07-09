@@ -9,6 +9,7 @@ list branch :
 - 1.3.2-react-redux-hooks
 - 1.3.2-react-redux-class
 - 1.4.1-react-middleware
+- 1.4.2-react-context
 - 1.5.1-react-testing-library
 - 2.2.1-react-native-intro
 - 2.2.1-react-navigation
