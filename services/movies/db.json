@@ -1,0 +1,43 @@
+{
+  "movies" : [{
+    "id": 1,
+    "title": "Heimat - A Chronicle of Germany (Heimat - Eine deutsche Chronik)",
+    "release_date": "2019-09-05"
+  }, {
+    "id": 2,
+    "title": "Flesh Merchant, The (Wild and Wicked, The)",
+    "release_date": "2020-02-09"
+  }, {
+    "id": 3,
+    "title": "Enemy Mine",
+    "release_date": "2020-06-03"
+  }, {
+    "id": 4,
+    "title": "Cool, Calm and Collected (Calmos)",
+    "release_date": "2020-04-01"
+  }, {
+    "id": 5,
+    "title": "Riders",
+    "release_date": "2020-02-07"
+  }, {
+    "id": 6,
+    "title": "Hitch Hike (Autostop rosso sangue) (Naked Prey, The)",
+    "release_date": "2019-10-16"
+  }, {
+    "id": 7,
+    "title": "Souler Opposite, The",
+    "release_date": "2020-06-02"
+  }, {
+    "id": 8,
+    "title": "Josephine",
+    "release_date": "2020-01-25"
+  }, {
+    "id": 9,
+    "title": "Revolutionary Road",
+    "release_date": "2020-01-17"
+  }, {
+    "id": 10,
+    "title": "Year Ago in Winter, A (Im Winter ein Jahr)",
+    "release_date": "2020-01-20"
+  }]
+}
