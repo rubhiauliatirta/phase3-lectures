@@ -18,4 +18,5 @@ list branch :
 - 2.4.1-mongdb
 - 2.4.2-microservices-redis
 - 2.5.1-graphql-server
+- 2.5.1-graphql-server-ver2
 - 2.5.2-graphql-client
