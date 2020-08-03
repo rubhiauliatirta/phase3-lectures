@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div id="root"></div>
+  <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+  <script>
+    const rootElement = document.getElementById("root")
+
+    const title = React.createElement("h1", {style: {color: "red"}}, "Title")
+    const paragraph = React.createElement("p", null, "Ini adalah paragraph ini adalah paragraph ini adalah paragraph ini adalah paragraph")
+    ReactDOM.render(
+      React.createElement(
+       "div", 
+        {}, 
+        [
+          title,
+          paragraph
+        ],
+      ),
+      rootElement
+    )
+  </script>
+</body>
+</html>
